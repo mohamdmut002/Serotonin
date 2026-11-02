@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Async Updates/Faisal/11-1-2026.md",
+                "file": "Daily Engineers/Faisal/2026-11-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11-1-2026"
+              "title": "2026-11-2"
             }
           }
         ]
@@ -188,16 +188,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "2e94c67c247d9de3",
+  "active": "86d7ee9e9d79c0ae",
   "lastOpenFiles": [
+    "2026-11-02.md",
+    "Daily Engineers/Faisal/2026-11-2.md",
+    "Async Updates/Faisal/2026-11-1.md",
+    "Daily Engineers/Sushi",
+    "Daily Engineers/Ameer",
+    "Daily Engineers/Ado",
     "Getting Started/Prerequisites.md",
-    "Async Updates/Faisal/11-1-2026.md",
+    "Async Updates/Faisal",
     "Getting Started/Collaboration.md",
     "Getting Started/Courses.md",
     "Getting Started/GitHub.md",
     "Getting Started/Development Workflow.md",
     "Daily Engineers/Faisal/2026-10-15.md",
-    "Daily Engineers/Faisal/Untitled.md",
     "Daily Engineers/Mutasim",
     "Daily Engineers/Afifi",
     "Daily Engineers/Afifi.md",
